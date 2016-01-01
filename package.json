@@ -1,0 +1,23 @@
+{
+  "name": "hoppel-builtins-count",
+  "version": "1.0.0-beta",
+  "description": "Builtin reducer: count",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "hoppel",
+    "builtin",
+    "count"
+  ],
+  "author": "Jonas Weber <mail@jonasw.de> (http://jonasw.de/)",
+  "license": "ISC",
+  "dependencies": {
+    "array-sum": "1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
