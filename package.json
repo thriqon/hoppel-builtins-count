@@ -1,6 +1,6 @@
 {
   "name": "hoppel-builtins-count",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "Builtin reducer: count",
   "main": "index.js",
   "scripts": {
